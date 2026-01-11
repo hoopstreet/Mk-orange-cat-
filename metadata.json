@@ -1,0 +1,8 @@
+{
+  "name": "template of ShortsArchitect AI",
+  "description": "Professional YouTube Shorts analysis and recreation script generator. Breakdown videos scene-by-scene for 1:1 reconstruction using Gemini Pro Vision.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
